@@ -1,0 +1,30 @@
+.textbox {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 500px;
+	width: 500px;
+	border: 5px solid sandybrown;
+	background-color: #202020;
+	color: sandybrown;
+
+	
+	 
+}
+.Implement {
+	text-align: center;
+}
+
+.addstructure{
+	text-align: center;
+}
+body {
+	background-color: #202020 !important;
+	width: 100% !important;
+	height: 100% !important;
+}
+.glavniheder{
+	color: white;
+	text-align: center;
+	top: 200px;
+}
